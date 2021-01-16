@@ -10,22 +10,24 @@ It is your job to predict the sales price for each house. For each Id in the tes
 
 ## DATA
 
-[I'm an inline-style link with title](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/test.csv "Ames Test Data")
-[I'm an inline-style link with title](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/test_clean.csv "Ames Test Data Cleaned")
-[I'm an inline-style link with title](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/train.csv "Ames Train Data")
-[I'm an inline-style link with title](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/train_clean.csv "Ames Train Data Cleaned")
+[Ames Test Data](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/test.csv "Ames Test Data")
+[Ames Test Data Cleaned](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/test_clean.csv "Ames Test Data Cleaned")
+[Ames Train Data](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/train.csv "Ames Train Data")
+[Ames Train Data Cleaned](https://git.generalassemb.ly/sampeou/project_2/blob/master/datasets/train_clean.csv "Ames Train Data Cleaned")
 
 ## Column Dictionary
 
-[I'm an inline-style link with title](https://git.generalassemb.ly/sampeou/project_2/blob/master/code/DataDict.txt "Data Dictionary")
+[Data Dictionary](https://git.generalassemb.ly/sampeou/project_2/blob/master/code/DataDict.txt "Data Dictionary")
 
 ## Outside Research:
 
-[I'm an inline-style link with title](https://www.realtor.com/realestateandhomes-search/Ames_IA "Checking for size of lots")
-[I'm an inline-style link with title](https://www.kaggle.com/sudhirnl7/linear-regression-tutorial "Model Research 1")
-[I'm an inline-style link with title](https://www.kaggle.com/jesucristo/1-house-prices-solution-top-1 "Model Research 2")
+[Checking for size of lots](https://www.realtor.com/realestateandhomes-search/Ames_IA "Checking for size of lots")
+[Model Research 1](https://www.kaggle.com/sudhirnl7/linear-regression-tutorial "Model Research 1")
+[Model Research 2](https://www.kaggle.com/jesucristo/1-house-prices-solution-top-1 "Model Research 2")
 
 ## Research: 
+
+Data cleaning with this data set was so incredibly crucial. For every fillna() or dropna() or drop() the model will read it totally differently. For i in struggled return (decent kaggle score). With this project, there are so many different EDA/model techniques to be learned that you apply almost all of them. I'm 2nd place, very disappointing, but, I take away the skills to be able to clean a semi-medium data set in a trillion different ways to only place 2nd.
 
 ![alt text](https://git.generalassemb.ly/sampeou/project_2/blob/master/img/heatmap.png)
 
